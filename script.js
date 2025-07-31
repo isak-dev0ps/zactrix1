@@ -187,7 +187,7 @@ async function handleContactSubmit(e) {
         }
     } catch (error) {
         console.error('Error:', error);
-        showAlert('error', 'There was an error submitting your form. Please try again. Ortry onwhats app ');
+        showAlert('error', 'There was an error submitting your form. Please try again. Or try on Whatsapp FOR Flaw less work flow and faster response ');
     } finally {
         // Reset button state
         submitBtn.textContent = originalText;
